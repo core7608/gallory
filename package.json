@@ -1,0 +1,1 @@
+{\n  "name": "fahim-ai-teacher",\n  "version": "1.0.0",\n  "description": "A project to teach AI concepts effectively.",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "Core7608",\n  "license": "ISC"\n}
